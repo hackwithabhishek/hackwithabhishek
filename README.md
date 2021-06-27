@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sam_abhishek1" target="blank"><img src="https://img.shields.io/twitter/follow/sam_abhishek1?logo=twitter&style=for-the-badge" alt="sam_abhishek1" /></a> </p>
 
-<img align='right' alt='Loading...' width='500' height='500' src='https://cdn.dribbble.com/users/1358460/screenshots/11701611/media/0517e155f3d0c60212447a4d07862577.jpg?compress=1&resize=800x600'/>
+<img align='right' alt='Loading...' width='300' height='300' src='https://cdn.dribbble.com/users/1358460/screenshots/11701611/media/0517e155f3d0c60212447a4d07862577.jpg?compress=1&resize=800x600'/>
 
 - 🌱 I’m currently learning **AWS**
 
