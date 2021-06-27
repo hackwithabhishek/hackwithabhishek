@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">A passionate to Explore New Technology</h3>
+<h3 align="center"> passionate to Explore New </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackwithabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="hackwithabhishek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackwithabhishek" alt="hackwithabhishek" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sam_abhishek1" target="blank"><img src="https://img.shields.io/twitter/follow/sam_abhishek1?logo=twitter&style=for-the-badge" alt="sam_abhishek1" /></a> </p>
+
+<img align='right' alt='Loading...' width='500' height='500' src='https://cdn.dribbble.com/users/1358460/screenshots/11701611/media/0517e155f3d0c60212447a4d07862577.jpg?compress=1&resize=800x600'/>
 
 - 🌱 I’m currently learning **AWS**
 
